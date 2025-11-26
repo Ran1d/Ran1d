@@ -9,7 +9,7 @@
 Thermodynamic modelling, data analysis, performance validation
   - **Tools:** Jupyter, MATLAB Simulink, NumPy, Pandas, Matplotlib
   -  ## Featured Projects Here are the projects I’m currently developing and refining:
-  - **Hybrid HDH–Freezing Desalination Model**     Performance modelling, energy balance, cost and water-production estimation.
+- **Hybrid HDH–Freezing Desalination Model**     Performance modelling, energy balance, cost and water-production estimation.
 - **RO–HDH–PV Hybrid System**     Integrated reverse osmosis + humidification–dehumidification + photovoltaic powering.
 - **CSP–MED with Thermal Storage**     Solar thermal integration, MED performance modelling, storage analysis.
 - **Wind Energy Potential Assessment**     Python-based wind resource analysis and Weibull distribution fitting.
