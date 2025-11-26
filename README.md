@@ -29,8 +29,8 @@ randbushnaq@gmail.com
  - Opportunities to collaborate on modelling, simulation, and data-driven energy projects
   ---
   ##  Current Goals
- - Expanding my portfolio with more polished, documented simulations
-   - Contributing to open-source sustainability/energy projects
-     - Strengthening my Python and MATLAB modelling skills
+- Expanding my portfolio with more polished, documented simulations
+- Contributing to open-source sustainability/energy projects
+- Strengthening my Python and MATLAB modelling skills
      ---
    Thanks for visiting my profile.
