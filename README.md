@@ -32,5 +32,5 @@ randbushnaq@gmail.com
  - Expanding my portfolio with more polished, documented simulations
    - Contributing to open-source sustainability/energy projects
      - Strengthening my Python and MATLAB modelling skills
-       ---
+     ---
    Thanks for visiting my profile.
