@@ -19,7 +19,7 @@ You can find these pinned below.
 ## CV & Contact 
 - **LinkedIn:**
 https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav
-- **CV:** https://rand-bushnaq-cv.tiiny.site/
+- **CV:** (https://pdflink.to/82d934d2/)
 - **Email:**
 randbushnaq@gmail.com
  ---
